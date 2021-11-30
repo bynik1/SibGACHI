@@ -6,4 +6,4 @@ from stegano import exifHeader
 result = exifHeader.reveal("4_secret.jpg")
 result = result.decode()
 #декодирование текста из изображения
-print(result)
+print(result)ывы
