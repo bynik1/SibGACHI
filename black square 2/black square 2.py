@@ -5,5 +5,5 @@ from stegano import exifHeader
 
 result = exifHeader.reveal("4_secret.jpg")
 result = result.decode()
-#декодирование текста из изображения
-print(result)ывы
+#декодирование текста из изображения 1
+print(result)
